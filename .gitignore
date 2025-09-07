@@ -1,0 +1,9 @@
+# Ignore virtual env and local runs
+.venv/
+__pycache__/
+runs/
+server/cache/
+*.pkl
+.env
+.env.local
+
